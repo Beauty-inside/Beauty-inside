@@ -1,12 +1,22 @@
-# Role  
+## 소개
 
-Rules of our team
+주니어 개발자들의 사이드 프로젝트 공간입니다.
 
+---
 
-## Link  
+## Beauty In Side Project
 
-[Slack](https://app.slack.com/client/T01A83F19PX/C019WDHLJLX) side-1 : instagrarn
+__SIDE 1 : [Instagrarn]__(https://github.com/Beauty-inside/Instagrarn) 인스타그램 클론 코딩(ver.아날로그 감성)  
 
+__SIDE 2 : [주식차트 앱]__(https://github.com/Beauty-inside/stocking) vue.js와 Chart.js를 활용한 나의 주식 차트 어플리케이션
+
+---
+
+## Slack Link 
+
+__[Beauty in side]__(https://app.slack.com/client/T01A83F19PX/C019WDHLJLX?selected_team_id=T01A83F19PX)
+
+---
 
 ## icon
 
